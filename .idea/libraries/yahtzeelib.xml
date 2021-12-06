@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yahtzeelib">
+    <CLASSES>
+      <root url="jar://D:/yahtzeelib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
